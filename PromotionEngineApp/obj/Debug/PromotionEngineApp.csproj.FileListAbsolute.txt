@@ -1,0 +1,7 @@
+D:\BhojrajA06150\InterviewPrep\CodePractice\PromotionEngineApp\PromotionEngineApp\bin\Debug\PromotionEngineApp.exe.config
+D:\BhojrajA06150\InterviewPrep\CodePractice\PromotionEngineApp\PromotionEngineApp\bin\Debug\PromotionEngineApp.exe
+D:\BhojrajA06150\InterviewPrep\CodePractice\PromotionEngineApp\PromotionEngineApp\bin\Debug\PromotionEngineApp.pdb
+D:\BhojrajA06150\InterviewPrep\CodePractice\PromotionEngineApp\PromotionEngineApp\obj\Debug\PromotionEngineApp.csprojAssemblyReference.cache
+D:\BhojrajA06150\InterviewPrep\CodePractice\PromotionEngineApp\PromotionEngineApp\obj\Debug\PromotionEngineApp.csproj.CoreCompileInputs.cache
+D:\BhojrajA06150\InterviewPrep\CodePractice\PromotionEngineApp\PromotionEngineApp\obj\Debug\PromotionEngineApp.exe
+D:\BhojrajA06150\InterviewPrep\CodePractice\PromotionEngineApp\PromotionEngineApp\obj\Debug\PromotionEngineApp.pdb
